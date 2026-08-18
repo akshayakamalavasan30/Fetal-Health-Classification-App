@@ -1,7 +1,7 @@
 # Fetal Health Classification App
 
 ## NOTE
-Model evaluation metrics in the report were computed on full dataset during experimentation. The deployed app reflects evaluation on test dataset.
+The comparison metrics shown in the report were computed on the full dataset during initial experimentation. The deployed Streamlit application evaluates models on test data, reflecting realistic performance
 
 ## Problem Statement
 
