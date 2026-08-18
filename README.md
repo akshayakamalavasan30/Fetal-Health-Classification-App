@@ -1,5 +1,8 @@
 # Fetal Health Classification App
 
+## NOTE
+Model evaluation metrics in the report were computed on full dataset during experimentation. The deployed app reflects evaluation on test dataset.
+
 ## Problem Statement
 
 To classify fetal health condition (Normal, Suspect, Pathological) using CTG data and compare multiple machine learning models to identify the best performing model.
